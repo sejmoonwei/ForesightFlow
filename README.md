@@ -9,7 +9,7 @@
 [![PDF](https://img.shields.io/badge/Read-PDF-blue)](https://openreview.net/pdf?id=ZHqszixmfx)
 [![Code](https://img.shields.io/badge/Code-Coming%20soon-lightgrey)](#code-release)
 
-Yunpeng Mei<sup>1,*</sup>, Jiakai He<sup>1,*</sup>, Hongjie Cao<sup>1,*</sup>, Chenyu Wang<sup>1,*</sup>, Xiaowen Zhu<sup>1</sup>,<br>
+Yunpeng Mei<sup>1,&#42;</sup>, Jiakai He<sup>1,&#42;</sup>, Hongjie Cao<sup>1,&#42;</sup>, Chenyu Wang<sup>1,&#42;</sup>, Xiaowen Zhu<sup>1</sup>,<br>
 Yihan Zhou<sup>2</sup>, Jiamin Wang<sup>1</sup>, Chenbo Xin<sup>1</sup>, Peng Cheng<sup>1</sup>, Yuxuan Yang<sup>1</sup>,<br>
 Yijie Wang<sup>1</sup>, Xinhu Zheng<sup>3</sup>, Gao Huang<sup>2</sup>, Jie Chen<sup>1</sup>, Gang Wang<sup>1,†</sup>
 
@@ -17,7 +17,7 @@ Yijie Wang<sup>1</sup>, Xinhu Zheng<sup>3</sup>, Gao Huang<sup>2</sup>, Jie Chen
 <sup>2</sup> Tsinghua University<br>
 <sup>3</sup> The Hong Kong University of Science and Technology (Guangzhou)
 
-<sup>*</sup> Equal contribution. &nbsp; <sup>†</sup> Corresponding author: [Gang Wang](mailto:gangwang@bit.edu.cn).
+<sup>&#42;</sup> Equal contribution. &nbsp; <sup>†</sup> Corresponding author: [Gang Wang](mailto:gangwang@bit.edu.cn).
 
 </div>
 
