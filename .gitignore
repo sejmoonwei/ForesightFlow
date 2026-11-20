@@ -1,0 +1,11 @@
+.venv*/
+.cache/
+outputs/
+data/
+checkpoints/
+configs/paths.local.json
+__pycache__/
+*.pyc
+*.egg-info/
+.env
+.env.*

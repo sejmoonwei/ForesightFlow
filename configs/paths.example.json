@@ -1,0 +1,15 @@
+{
+  "server_python": ".venv-server/bin/python",
+  "client_python": ".venv-sim/bin/python",
+  "rollout_data": "data/rollouts_stage",
+  "expert_data": "data/expert_stage",
+  "init_checkpoint": "checkpoints/actor_init/params",
+  "checkpoint": "checkpoints/libero/10000",
+  "norm_stats_dir": "assets/pi05_libero",
+  "assets_dir": "assets",
+  "output_dir": "outputs",
+  "openpi_data_home": ".cache/openpi",
+  "hf_home": ".cache/huggingface",
+  "lerobot_home": ".cache/lerobot",
+  "cudnn_preload": "auto"
+}
