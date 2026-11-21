@@ -69,13 +69,13 @@ Edit `configs/paths.local.json` to set:
 
 ### Download training data
 
-The [training dataset](https://huggingface.co/datasets/sejmoo/ForesightFlow-LIBERO) contains 400 successful expert demonstrations and failed policy rollouts, both with stage annotations. The expert subset is derived from [LIBERO demonstrations](https://github.com/Lifelong-Robot-Learning/LIBERO); it is already converted and labeled for this loader.
+The [training dataset](https://huggingface.co/datasets/sejmoonwei/ForesightFlow-LIBERO) contains 400 successful expert demonstrations and failed policy rollouts, both with stage annotations. The expert subset is derived from [LIBERO demonstrations](https://github.com/Lifelong-Robot-Learning/LIBERO); it is already converted and labeled for this loader.
 
 While the dataset is private, first log in with an authorized account:
 
 ```bash
 .venv-server/bin/huggingface-cli login
-.venv-server/bin/huggingface-cli download sejmoo/ForesightFlow-LIBERO \
+.venv-server/bin/huggingface-cli download sejmoonwei/ForesightFlow-LIBERO \
   --repo-type dataset --local-dir data
 ```
 
